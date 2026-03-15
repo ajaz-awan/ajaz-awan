@@ -1,5 +1,4 @@
-
-learning
+LEARNING
 
 
 ## 🌐 Socials:
