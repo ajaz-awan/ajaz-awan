@@ -12,7 +12,7 @@ I build web applications and work with Python, C++, and MySQL.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajaz-ahmad-awan/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajazawankhk@gmail.com)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 - **Languages:** Python, C++, JavaScript, TypeScript
 - **Web:** React, Next.js, Tailwind CSS
