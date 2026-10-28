@@ -1,4 +1,4 @@
-LEARNING
+Python, C++ & web development | Learning Machine Learning | Building practical projects
 
 
 ## 🌐 Socials:
