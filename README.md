@@ -3,7 +3,7 @@
 I build web applications and work with Python, C++, and MySQL.
 
 - 🌱 Currently learning NumPy and Machine Learning
-- 🛠️ Projects: Slotly, Fresh Bites, and a Job Board
+- 🛠️ Projects: Slotly and Fresh Bites
 - 🎯 Goal: Build practical applications using Machine Learning
 
 
